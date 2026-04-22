@@ -1,0 +1,12 @@
+{
+  "bad": 0,
+  "good": 1,
+  "hello": 2,
+  "help": 3,
+  "love": 4,
+  "no": 5,
+  "please": 6,
+  "sorry": 7,
+  "thank_you": 8,
+  "yes": 9
+}
